@@ -5,7 +5,7 @@
 * `apt install git curl php wget -y`
 * `git clone the url : `
 * `cd instgram2.0`
-#### > Run : `python3 InstaReporter.py`
+#### > Run : `python3 instagram2.0`
 
 ## Single Command :
 ```

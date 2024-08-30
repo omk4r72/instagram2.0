@@ -22,6 +22,6 @@ urls = [
 def print_logo():
     print(Fore.RED + Style.BRIGHT + logo + Style.RESET_ALL + Style.BRIGHT +"\n")
     print(Fore.MAGENTA + "      Producer: Omkar"+ Style.RESET_ALL + Style.BRIGHT)
-    print(Fore.CYAN + "\n", "-> Follow me On Instagram @omya__720.")
+    print(Fore.CYAN + "\n", "-> Follow me On Instagram @0mk4rx.")
     print ("\n", "-> Special For Hackers:\n    " + choice(urls))
     print(Style.RESET_ALL + Style.BRIGHT, Style.BRIGHT)

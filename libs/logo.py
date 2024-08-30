@@ -11,12 +11,12 @@ logo ="""
 
 
 urls = [
-    "GitHub - https://github.com/omkarchavhan__07",
-    "Instagram - https://instagram.com/omya__720",
+    "GitHub - https://github.com/omk4r72",
+    "Instagram - https://instagram.com/0mk4rx",
     "Facebook - https://fb.com/omkar",
     "Twitter - https://twitter.com/omkarchavhan.",
     "InstaReporter Tool - https://github.com/omkarchavhan/InstaReporter",
-    "Gmail - mailto:omkarchavhan72@gmail.com"
+    "Gmail - mailto:chavhanomkar702@gmail.com"
     ]
 
 def print_logo():
